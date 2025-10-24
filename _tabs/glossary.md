@@ -1,9 +1,7 @@
 -----
-## layout: page
-icon: fas fa-book
+
+## icon: fas fa-book
 order: 5
-title: Glossary
-category: introduction
 
 ## A
 
