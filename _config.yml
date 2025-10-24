@@ -28,7 +28,8 @@ url: "https://lilylikesyou.github.io"
 github:
   username: lilylikesyou # change to your GitHub username
 
-# twitter: username: twitter_username # change to your Twitter username
+twitter: 
+  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -68,7 +69,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: hF7JU9Lz6KFCGvwfh7Nxb8EkAUkhfsVZIOgRWKP5 # fill in your Cloudflare Web Analytics token
+    id: "hF7JU9Lz6KFCGvwfh7Nxb8EkAUkhfsVZIOgRWKP5" # fill in your Cloudflare Web Analytics token
   fathom:
     id: # fill in your Fathom Site ID
 
@@ -149,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/tpm-guide"
 
 # ------------ The following options are not recommended to be modified ------------------
 
