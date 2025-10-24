@@ -1,6 +1,7 @@
 -----
 icon: fas fa-book
 order: 5
+-----
 
 ## A
 
@@ -53,7 +54,5 @@ order: 5
 
 **Module**
 : A self-contained unit of code that performs a specific function within a larger program.
-
------
 
 *Add your program-specific terms by editing this file and following the format above.*
